@@ -1,6 +1,6 @@
 Description:
 This is a driver for a standard 16x2 LCD screen written in assembly.
-The driver can be used with any of the PIC 16FXXX chips that have at least a PORT with 6 bits using a 4MHz clock.
+The driver can be used with any of the PIC 16FXXX chips that have at least a PORT with 6 bits, and use a 4MHz clock.
 You will have just to use the appropriate PROCESSOR, INCLUDE and __CONFIG instructions and in some cases modify the pin settings.
 
 Configuration:
