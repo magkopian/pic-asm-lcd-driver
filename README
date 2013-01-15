@@ -13,4 +13,4 @@ For example if you use PORTA for your LCD, the D7 pin must go to the PA7 pin of 
 Hardware Support:
 The driver is tested with the 16F876A microcontroller chip and it worked fine, but it should work with most PIC 16FXXX chips that have at least a PORT with 6 bits. If you have tested it with a different PIC please let me know. 
 
-The driver is written to work with a 4MHz. To use another clock you will have to modify the delay routines. With a slower crystal though it should work without changing the code but it will be a little slower.
+The driver is written to work with a 4MHz clock. To use another clock you will have to modify the delay routines. With a slower crystal though it should work without changing the code but it will be a little slower.
