@@ -1,6 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;Copyright (c) 2013 Manolis Agkopian		  ;
-;See the file license.txt for copying permission. ;
+;See the file LICENCE for copying permission.	  ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 	INCLUDE <LCD_PIN_SETTINGS.INC>
