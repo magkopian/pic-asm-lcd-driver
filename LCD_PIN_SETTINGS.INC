@@ -1,6 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;Copyright (c) 2013 Manolis Agkopian											;
-;See the file license.txt for copying permission.								;
+;Copyright (c) 2013 Manolis Agkopian						;
+;See the file license.txt for copying permission.				;
 ;                                                                               ;
 ;IN ORDER TO CHANGE THE PINS USED BY THE LCD, YOU HAVE TO MODIFY ONLY THIS FILE ;
 ;                                                                               ;

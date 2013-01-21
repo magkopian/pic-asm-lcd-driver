@@ -1,7 +1,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;Copyright (c) 2013 Manolis Agkopian						  ;
-;See the file license.txt for copying permission.			  ;
-;															  ;
+;Copyright (c) 2013 Manolis Agkopian			      ;
+;See the file license.txt for copying permission.	      ;
+;							      ;
 ;THIS IS JUST SOME TEST CODE THA USES THE LCD DRIVER TO PRINT ;
 ;THE NUMBERS FROM 0 TO 9 TO THE LCD WITH A DELAY              ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

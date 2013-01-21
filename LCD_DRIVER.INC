@@ -1,5 +1,5 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;Copyright (c) 2013 Manolis Agkopian			  ;
+;Copyright (c) 2013 Manolis Agkopian		  ;
 ;See the file license.txt for copying permission. ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
