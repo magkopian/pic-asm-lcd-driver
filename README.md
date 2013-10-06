@@ -32,3 +32,6 @@ The driver is written to work with a 4MHz clock. To use another clock you will h
 </p>
 </body>
 </html>
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/magkopian/pic-lcd-driver/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
